@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Demo
+                    Demo Page
                 </div>
 
                 <div class="links">
